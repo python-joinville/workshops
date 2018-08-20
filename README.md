@@ -23,3 +23,9 @@ ou
 ```sh
 docker-compose up
 ```
+
+## Contribuidores
+
+* Alan R. Fachini
+* Daniel Bastos
+* Verônica Marin
